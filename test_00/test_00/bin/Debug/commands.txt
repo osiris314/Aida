@@ -1,0 +1,27 @@
+Hello
+Close application
+Switch to spotify
+Wake up aida
+Aida dont listen for a while
+Open light
+Close light
+What time is it
+Close spotify
+Close chrome
+What is today
+Open visual studio
+Restart the pc aida
+Close visual studio
+Open chrome
+Switch to chrome
+Open google
+Aida
+Minimize
+Maximize
+What is the weather like
+What is the temperature
+Thanks
+Thank you
+Go to sleep
+Create new command
+Wake up

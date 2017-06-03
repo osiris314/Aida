@@ -1,0 +1,18 @@
+c:\users\baggs\documents\visual studio 2017\Projects\test_00\test_00\bin\Debug\test_00.exe.config
+c:\users\baggs\documents\visual studio 2017\Projects\test_00\test_00\bin\Debug\test_00.exe
+c:\users\baggs\documents\visual studio 2017\Projects\test_00\test_00\bin\Debug\test_00.pdb
+c:\users\baggs\documents\visual studio 2017\Projects\test_00\test_00\obj\Debug\test_00.Form1.resources
+c:\users\baggs\documents\visual studio 2017\Projects\test_00\test_00\obj\Debug\test_00.Properties.Resources.resources
+c:\users\baggs\documents\visual studio 2017\Projects\test_00\test_00\obj\Debug\test_00.csproj.GenerateResource.Cache
+c:\users\baggs\documents\visual studio 2017\Projects\test_00\test_00\obj\Debug\test_00.exe
+c:\users\baggs\documents\visual studio 2017\Projects\test_00\test_00\obj\Debug\test_00.pdb
+C:\Users\baggs\documents\visual studio 2017\Projects\test_00\test_00\obj\Debug\test_00.csprojResolveAssemblyReference.cache
+C:\Users\Vangelis Araouzos\Desktop\test_00\test_00\test_00\bin\Debug\test_00.exe.config
+C:\Users\Vangelis Araouzos\Desktop\test_00\test_00\test_00\bin\Debug\test_00.exe
+C:\Users\Vangelis Araouzos\Desktop\test_00\test_00\test_00\bin\Debug\test_00.pdb
+C:\Users\Vangelis Araouzos\Desktop\test_00\test_00\test_00\obj\Debug\test_00.csprojResolveAssemblyReference.cache
+C:\Users\Vangelis Araouzos\Desktop\test_00\test_00\test_00\obj\Debug\test_00.Form1.resources
+C:\Users\Vangelis Araouzos\Desktop\test_00\test_00\test_00\obj\Debug\test_00.Properties.Resources.resources
+C:\Users\Vangelis Araouzos\Desktop\test_00\test_00\test_00\obj\Debug\test_00.csproj.GenerateResource.Cache
+C:\Users\Vangelis Araouzos\Desktop\test_00\test_00\test_00\obj\Debug\test_00.exe
+C:\Users\Vangelis Araouzos\Desktop\test_00\test_00\test_00\obj\Debug\test_00.pdb
