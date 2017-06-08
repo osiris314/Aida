@@ -81,7 +81,7 @@ namespace test_00
                 }
                 InitializeComponent();
             //serialPort1.Open();
-
+         say("The sky in syros is " + GetWeather("cond") + "at " + GetWeather("temp") + "degrees");
 
 
         }
